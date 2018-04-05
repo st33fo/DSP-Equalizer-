@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 27 20:38:43 2018
-
+Yeah we finally on git
 @author: Stefan
 """
 from __future__ import print_function, division
